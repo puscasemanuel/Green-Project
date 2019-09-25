@@ -68,3 +68,24 @@ body {
 	font-weight: 700;
 	letter-spacing: 17.4px;
 }
+
+
+/**************************** TESTING ************************/
+#about {
+	background-color: red;
+	height: 500px;
+	margin-top: 10px;
+	position: relative;
+}
+
+.image-box {
+	position: absolute;
+	top: 50px;
+	left: 50%;
+	transform: translate(-50%);
+	background-color: #000;
+}
+
+.logo2 {
+	height: 100px;
+}
