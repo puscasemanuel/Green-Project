@@ -53,7 +53,6 @@ body {
 .heading-primary {
 	color: #fff;
 	text-transform: uppercase;
-
 	backface-visibility: hidden;
 }
 
@@ -66,8 +65,6 @@ body {
 	animation-name: moveInLeft;
 	animation-duration: 1s;
 	animation-timing-function: ease-out;
-	
-
 	/*Delay animation: animation-delay: 3s;*/
 }
 
